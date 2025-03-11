@@ -1,0 +1,57 @@
+groups:
+  md_5:
+  - admin
+connection_throttle: 4000
+online_mode: false
+remote_ping_timeout: 5000
+connection_throttle_limit: 3
+servers:
+  lobby:
+    address: node.thundersmp.sbs:2002
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+remote_ping_cache: -1
+enforce_secure_profile: false
+timeout: 30000
+ip_forward: true
+forge_support: false
+player_limit: -1
+max_packets_per_second: 4096
+disabled_commands:
+- disabledcommandhere
+log_pings: true
+max_packets_data_per_second: 3.3554432E7
+log_commands: false
+stats: d62c9808-c1fa-4042-b2a5-0c74d70877ae
+listeners:
+- bind_local_address: true
+  force_default_server: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  host: 0.0.0.0:2000
+  max_players: 20
+  motd: '&b&lThunder&e&l&mSMP&f &6&l Welcome&f\n&6&lLifesteal - Survival - Duels'
+  ping_passthrough: false
+  priorities:
+  - lobby
+  proxy_protocol: false
+  query_enabled: false
+  query_port: 2000
+  tab_list: GLOBAL_PING
+  tab_size: 60
+reject_transfers: false
+network_compression_threshold: 256
+permissions:
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.kick
+  - bungeecord.command.send
+  - bungeecord.command.find
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+prevent_proxy_connections: false
+server_connect_timeout: 5000

@@ -1,0 +1,49 @@
+13:56:38 [INFO] Using mbed TLS based native cipher.
+13:56:38 [INFO] Using zlib based native compressor.
+13:56:38 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:9476ffc:1920
+13:56:38 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:56:38 [INFO] Epoll is working, utilising it!
+13:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:56:38 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:38 [INFO] Attempting to Jenkins download module cmd_alert v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:40 [INFO] Attempting to Jenkins download module cmd_find v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:40 [INFO] Attempting to Jenkins download module cmd_list v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:40 [INFO] Attempting to Jenkins download module cmd_send v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:40 [INFO] Attempting to Jenkins download module cmd_server v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1920, git=9476ffc)
+13:56:40 [INFO] Attempting to Jenkins download module reconnect_yaml v1920
+13:56:40 [INFO] Download complete
+13:56:40 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:40 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:40 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:40 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:40 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:40 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [WARNING] Forced host server pvp is not defined
+13:56:41 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9476ffc:1920 by SpigotMC
+13:56:41 [INFO] Listening on /0.0.0.0:25577
+14:05:31 [INFO] Closing listener [id: 0xfdb4eb76, L:/[0:0:0:0:0:0:0:0]:25577]
+14:05:31 [INFO] Closing pending connections
+14:05:31 [INFO] Disconnecting 0 connections
+14:05:32 [INFO] Saving reconnect locations
+14:05:32 [INFO] Disabling plugins
+14:05:32 [INFO] Closing IO threads
