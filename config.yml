@@ -28,7 +28,7 @@ listeners:
   force_default_server: false
   forced_hosts:
     pvp.md-5.net: pvp
-  host: 0.0.0.0:2000
+  host: 0.0.0.0:4001
   max_players: 20
   motd: '&b&lThunder&e&l&mSMP&f &6&l Welcome&f\n&6&lLifesteal - Survival - Duels'
   ping_passthrough: false
